@@ -1,0 +1,6 @@
+2023/11/15-00:49:20.234 5a50 Creating DB D:/Unreal Projects/SpaceGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/11/15-00:49:20.246 5a50 Reusing MANIFEST D:/Unreal Projects/SpaceGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/15-00:55:38.363 6e38 Level-0 table #5: started
+2023/11/15-00:55:38.366 6e38 Level-0 table #5: 1167 bytes OK
+2023/11/15-00:55:38.371 6e38 Delete type=0 #3
+2023/11/15-00:55:38.372 6e38 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
